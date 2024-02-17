@@ -1,0 +1,22 @@
+{
+  "name": "express-sequalize-template",
+  "version": "1.0.0",
+  "description": "A template to work with express and sequalize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmartinezsch/express-sequalize-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmartinezsch/express-sequalize-template/issues"
+  },
+  "homepage": "https://github.com/lmartinezsch/express-sequalize-template#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
