@@ -25,4 +25,4 @@ node_modules
 .vscode/*
 
 # Test
-coverage/*
+test/coverage/*
