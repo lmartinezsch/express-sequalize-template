@@ -44,10 +44,10 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "nodemon": "^3.0.3"
   },
-  "jest":
-  {
+  "jest": {
     "moduleFileExtensions": [
       "js",
       "json",
