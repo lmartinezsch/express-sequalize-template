@@ -1,8 +1,8 @@
 import express from "express";
-
-require("dotenv").config();
+import dotenv from "dotenv";
 import { taskRouter } from "./v1/routes/task.routes";
 
+dotenv.config();
 const app = express();
 const port = process.env.PORT || 3000;
 
