@@ -1,4 +1,6 @@
 import express from "express";
+
+require("dotenv").config();
 import { taskRouter } from "./v1/routes/task.routes";
 
 const app = express();
